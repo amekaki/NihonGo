@@ -1,6 +1,6 @@
-# flutter_application_1
+# NihonGo
 
-A new Flutter project.
+A nihongo learning project.
 
 ## Getting Started
 
